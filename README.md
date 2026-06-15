@@ -1,5 +1,11 @@
 # AmbitionBox Company Scraper 🏢
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4-green)
+![Pandas](https://img.shields.io/badge/Pandas-latest-150458?logo=pandas)
+![Requests](https://img.shields.io/badge/Requests-latest-orange?logo=python)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 A Python web scraper that extracts data on **top companies in India** from [AmbitionBox](https://www.ambitionbox.com), including ratings, reviews, company type, and location.
 
 ## 📊 Data Collected
